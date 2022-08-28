@@ -5,7 +5,7 @@
 
 
 
-### 微信小程序：【科技趣玩】
+### 微信公众号：【CyberSec】
 <!---
 moyess/moyess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
